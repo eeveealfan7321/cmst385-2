@@ -1,1 +1,52 @@
 
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+
+}
+h2 {
+  color:black;
+  font-family: verdana;
+  font-size: 200%;
+  text-align: center;
+}
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 160%;
+  text-align: center;
+}
+#songartist {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+  text-align: center;
+}
+.albumname {
+  background-color: grey;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+header {
+  background: linear-gradient(120deg, #04AA6D, #058457);
+  color: #fff;
+  padding: 60px 20px;
+  text-align: center;
+footer {
+  padding: 24px;
+  text-align: center;
+  background: #e8edf4;
+  font-size: 0.9rem;
+}
+.content-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+  box-sizing: border-box;
+}
+  
+
