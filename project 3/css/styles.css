@@ -49,5 +49,11 @@ footer {
   padding: 0 16px;
   box-sizing: border-box;
 }
+  .songs {
+     color: black;
+  font-family: courier;
+  font-size: 160%;
+  text-align: center;
+  }
   
 
