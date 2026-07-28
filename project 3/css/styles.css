@@ -33,15 +33,16 @@ p  {
 }
 #header {
   background-color: grey;
-  color: #fff;
-  padding: 60px 20px;
-  text-align: left;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
 .footer {
-  padding: 24px;
-  text-align: center;
-  background-color: grey;
-  font-size: 0.9rem;
-  font-family: verdana;
+ background-color: grey;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
 }
 .content-container {
   max-width: 1200px;
