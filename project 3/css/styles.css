@@ -32,10 +32,10 @@ p  {
   padding: 20px;
 }
 .header {
-  background: linear-gradient(120deg, #04AA6D, #058457);
+  background: grey (120deg, #04AA6D, #058457);
   color: #fff;
   padding: 60px 20px;
-  text-align: center;
+  text-align: ;
 .footer {
   padding: 24px;
   text-align: center;
@@ -54,11 +54,13 @@ p  {
   font-size: 160%;
   text-align: center;
   }
-    .navigation {
+    #navigation {
       display: flex ;
-      justify-content: center ;
+      justify-content: left ;
       align-items: left ;
       height: 125px ;
       color: white ;
       font-size: 80px ;
+      text-decoration: none;
+    }
 
