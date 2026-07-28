@@ -31,12 +31,12 @@ p  {
   margin: 20px;
   padding: 20px;
 }
-header {
+.header {
   background: linear-gradient(120deg, #04AA6D, #058457);
   color: #fff;
   padding: 60px 20px;
   text-align: center;
-footer {
+.footer {
   padding: 24px;
   text-align: center;
   background: #e8edf4;
