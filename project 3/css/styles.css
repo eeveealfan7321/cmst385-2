@@ -56,13 +56,13 @@ p  {
   font-size: 160%;
   text-align: center;
   }
-    #navigation {
+    .navigation {
       display: flex ;
       justify-content: left ;
       align-items: left ;
       height: 125px ;
       color: white ;
-      font-size: 80px ;
+      font-size: 35px ;
       text-decoration: none;
     }
 .news {
