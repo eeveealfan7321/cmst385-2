@@ -31,7 +31,7 @@ p  {
   margin: 20px;
   padding: 20px;
 }
-.header {
+#header {
   background: grey ;
   color: #fff;
   padding: 60px 20px;
