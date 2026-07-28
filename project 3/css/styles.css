@@ -54,5 +54,11 @@ footer {
   font-size: 160%;
   text-align: center;
   }
-
+    .navigation {
+      display: flex ;
+      justify-content: center ;
+      align-items: left ;
+      height: 125px ;
+      color: white ;
+      font-size: 80px ;
 
