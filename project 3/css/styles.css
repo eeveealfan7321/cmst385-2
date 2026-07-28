@@ -64,4 +64,10 @@ p  {
       font-size: 80px ;
       text-decoration: none;
     }
-
+.news {
+  background-color: grey;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 10px;
+}
