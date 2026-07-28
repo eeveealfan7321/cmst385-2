@@ -14,7 +14,7 @@ h2 {
 }
 p  {
   color: black;
-  font-family: courier;
+  font-family: verdana;
   font-size: 160%;
   text-align: center;
 }
@@ -29,7 +29,7 @@ p  {
   color: white;
   border: 2px solid black;
   margin: 20px;
-  padding: 20px;
+  padding: 10px;
 }
 #header {
   background: grey;
