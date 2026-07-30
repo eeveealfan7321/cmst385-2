@@ -1,1 +1,44 @@
-
+h1 {
+  color: red;
+  font-family: copperplate;
+  alignment: center ;
+  font-size: 15px ;
+}
+h2 { 
+  color: white;
+  font-family: copperplate;
+  alignment: center;
+  font-size: 10px
+}
+p {
+  color: white;
+  font-family: copperplate;
+  font-size: 8px
+  margin: 8px
+}
+#shopname {
+  color: white;
+  font-family: copperplate;
+  font-size: 15;
+}
+.shopdetails {
+  color: white;
+  font-family: copperplate;
+  font-size: 11px;
+}
+body {
+  background: dark blue;
+}
+header {
+  background-color: blue;
+  color: white;
+}
+footer {
+  background-color: blue;
+  color: white;
+}
+.navigation {
+  background-color: blue;
+  color: white;
+  border: black;
+  alignment: center;
