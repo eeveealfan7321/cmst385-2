@@ -1,13 +1,13 @@
 h1 {
   color: red;
   font-family: copperplate;
-  center-alignment: center ;
+  text-align: center ;
   font-size: 40px ;
 }
 h2 { 
   color: white;
   font-family: copperplate;
-  alignment: center;
+  text-align: center;
   font-size: 10px
 }
 p {
@@ -41,7 +41,7 @@ footer {
   background-color: blue;
   color: white;
   border: black;
-  alignment: center;
+  text-align: center;
 }
 .column {
   float: left;
