@@ -45,7 +45,7 @@ footer {
    font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
 }
 .column {
-  float: center;
+  float: left;
   padding: 5px;
 .row::after {
   content: "";
