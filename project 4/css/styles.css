@@ -45,8 +45,9 @@ footer {
 }
 .column {
   float: left;
-  width: 33.33%;
   padding: 5px;
+  height: 80px; 
+  width: 500px;
 }
 .row::after {
   content: "";
