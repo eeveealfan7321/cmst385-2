@@ -44,7 +44,7 @@ footer {
   text-align: center;
 }
 .column {
-  float: left;
+  float: center;
   padding: 5px;
 .row::after {
   content: "";
