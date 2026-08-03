@@ -47,13 +47,6 @@ footer {
 .column {
   float: left;
   padding:15px;
-.column2 {
- text-align: center ;
-}
-.column3 {
-float: left;
-padding:15px;
-}
 .row::after {
   content: "";
   clear: both;
