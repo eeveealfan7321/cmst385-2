@@ -46,11 +46,13 @@ footer {
 }
 .column {
   float: left;
-  padding: 5px;
+  padding:15px;
+.column3 {
+  float: center;
 }
 .column2 {
 float: right;
-  padding: 5px;
+padding:15px;
 }
 .row::after {
   content: "";
