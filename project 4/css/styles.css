@@ -51,7 +51,7 @@ footer {
  text-align: center ;
 }
 .column3 {
-float: right;
+float: left;
 padding:15px;
 }
 .row::after {
