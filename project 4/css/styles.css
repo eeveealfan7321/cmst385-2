@@ -47,10 +47,10 @@ footer {
 .column {
   float: left;
   padding:15px;
-.column3 {
+.column2 {
   float: center;
 }
-.column2 {
+.column3 {
 float: right;
 padding:15px;
 }
