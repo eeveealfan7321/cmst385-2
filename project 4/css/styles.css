@@ -46,9 +46,7 @@ footer {
 .column {
   float: left;
   padding: 5px;
-  height: 80px; 
-  width: 500px;
-}
+  width: 33.33%
 .row::after {
   content: "";
   clear: both;
