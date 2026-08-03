@@ -26,17 +26,6 @@ p {
  font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
   font-size: 11px;
 }
-body {
-  background-color: darkblue;
-}
-header {
-  background-color: blue;
-  color: white;
-}
-footer {
-  background-color: blue;
-  color: white;
-}
 .navigation {
   background-color: blue;
   color: white;
