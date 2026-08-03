@@ -1,3 +1,6 @@
+body {
+  background-color: darkblue;
+}
 h1 {
   color: red;
  font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
@@ -72,7 +75,6 @@ p {
     background: blue;
   }
   .footer {
-      .header {
     font-size: 40px;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
     color: white;
