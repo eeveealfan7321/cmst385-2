@@ -48,7 +48,7 @@ footer {
   float: left;
   padding:15px;
 .column2 {
-  float: center;
+ text-align: center ;
 }
 .column3 {
 float: right;
