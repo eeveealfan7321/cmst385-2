@@ -69,13 +69,13 @@ p {
   .seach-icon {
     color: rgba(0, 0, 0, 0.25);
   }
-  .header {
+  .main-header {
     font-size: 40px;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
     color: white;
     background: blue;
   }
-  .footer {
+  .main-footer {
     font-size: 40px;
     font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
     color: white;
