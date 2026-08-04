@@ -80,6 +80,7 @@ p {
     font-family: Copperplate, "Copperplate Gothic Light", fantasy, serif;
     color: white;
     background-color: dodgerblue;
+      flex: 1;
       }
   
 
